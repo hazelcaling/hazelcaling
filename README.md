@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 ## About Me
-I’m Hazel Caling, a full-stack software engineer with a rich background in logistics and supply chain management. With 15 years of experience under my belt, I’ve transitioned from optimizing supply chains to crafting innovative tech solutions. My passion lies in using technology to solve real-world problems in sectors like logistics and agriculture.
+I’m Hazel Caling, a full-stack software engineer with a rich background in logistics and supply chain management. With 12 years of experience under my belt, I’ve transitioned from optimizing supply chains to crafting innovative tech solutions. My passion lies in using technology to solve real-world problems in sectors like logistics and agriculture.
 
 When I'm not coding, you'll find me:
 
