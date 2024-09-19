@@ -1,7 +1,15 @@
-# Hi, I'm Hazel Caling! 👋
+# Hey there! 👋
 
 ## About Me
-I’m a full-stack software engineer with a background in logistics and supply chain management. I recently graduated from App Academy and am passionate about building innovative solutions, particularly in logistics and farming.
+I’m Hazel Caling, a full-stack software engineer with a rich background in logistics and supply chain management. With 15 years of experience under my belt, I’ve transitioned from optimizing supply chains to crafting innovative tech solutions. My passion lies in using technology to solve real-world problems in sectors like logistics and agriculture.
+
+When I'm not coding, you'll find me:
+
+* 🐶 Enjoying walks with my two dogs
+* 🍴 Discovering new restaurants
+* 🍳 Experimenting with new recipes
+
+I’m a recent graduate of App Academy, and I’m excited to keep learning and growing in the tech world. 
 
 ## Skills
 
@@ -40,12 +48,4 @@ I’m a full-stack software engineer with a background in logistics and supply c
 - **Email:** [hazelcaling@live.com](mailto:hazelcaling@live.com)
 - **LinkedIn:** [www.linkedin.com/in/hazel-c-37255a59](www.linkedin.com/in/hazel-c-37255a59)
 
-## Interests
-- Walking my two dogs 🐕
-- Cooking and baking 🍰
-- Exploring new coffee spots ☕
-- Watching movies 🎥
-
-
-Feel free to connect with me!
 
