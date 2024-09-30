@@ -46,7 +46,7 @@ Trained through App Academy, I’m eager to keep learning and growing in the tec
 
 ## Contact
 - **Email:** [hazelcaling@live.com](mailto:hazelcaling@live.com)
-- **[LinkedIn](https://linkedin.com/in/hazel-c-37255a59)**
+- **[LinkedIn](www.linkedin.com/in/hazel-caling-37255a59)**
 - **[Portfolio](https://hazelcaling.github.io)**
 
 
